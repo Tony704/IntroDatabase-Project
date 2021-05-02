@@ -2,27 +2,24 @@
 The focus of the project is on the correct design and development of a database using MySQL
 
 # Introduction:
-Team member: <a href="http;//www.catawba.edu">Catawba College</a><br>
-             Shaniqua Perry
-             Pearce Willhelm
-             Tony Yang
- /*
+Team member: <a href="http://www.catawba.edu">Catawba College</a><br>
+             Shaniqua Perry<br>
+             Pearce Willhelm<br>
+             Tony Yang<br>
  
- */ Project description: The focus of the project is on the correct design and development of a database using MySQL.  The project also requires advanced use of SQL and data extraction for analysis purposes
- /*
+ 
+  # Project description: The focus of the project is on the correct design and development of a database using MySQL.  The project also requires advanced use of SQL and data extraction for analysis purposes
 
-Use Case for Rating System
 
-Business Rules
+# Use Case for Rating System
 
-EERD (full database)
+# Business Rules
 
-MySQL Queries
+# EERD (full database)
 
-Stored Procedure
+# MySQL Queries
 
-Web/App Implementation (Optional) or Description of Future Work
 
-MySQL dump
+# MySQL dump
 
-PPT Video (link)
+# PPT Video (link)
