@@ -13,11 +13,13 @@ Team member: <a href="http://www.catawba.edu">Catawba College</a><br>
 
 
 # Use Case for Rating System
-Enter text here
+Look at email from Dr. Thompson
 
 # Business Rules
+In Project Assignment
 
 # EERD (full database)
+Get from Tony
 
 # MySQL Queries
 
