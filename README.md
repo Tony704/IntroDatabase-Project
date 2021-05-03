@@ -19,12 +19,14 @@ Look at email from Dr. Thompson
 In Project Assignment
 
 # EERD (full database)
-Get from Tony
 ![EERD](https://user-images.githubusercontent.com/78328362/116940271-b4205d80-ac3b-11eb-8371-bbf7b9cc511e.png)
 
 # MySQL Queries
-
-
+![AverageRatingTables](https://user-images.githubusercontent.com/78328362/116940346-d6b27680-ac3b-11eb-85f1-f8c4b3d02e95.png)
+![AverageRatingDriver](https://user-images.githubusercontent.com/78328362/116940344-d619e000-ac3b-11eb-8287-9e879bfd45cb.png)
+![ALLratingfromDrivertable](https://user-images.githubusercontent.com/78328362/116940343-d5814980-ac3b-11eb-9919-360d70e4f3f4.png)
+![AllOrdersbyCustomerinAWeek](https://user-images.githubusercontent.com/78328362/116940342-d4e8b300-ac3b-11eb-9c35-0b9234319b2a.png)
+![OriginalQuery5table](https://user-images.githubusercontent.com/78328362/116940351-d74b0d00-ac3b-11eb-893e-cc5d6d6769f2.png)
 # MySQL dump
 
 # PPT Video (link)
