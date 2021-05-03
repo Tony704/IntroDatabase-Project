@@ -20,6 +20,7 @@ In Project Assignment
 
 # EERD (full database)
 Get from Tony
+![EERD](https://user-images.githubusercontent.com/78328362/116940271-b4205d80-ac3b-11eb-8371-bbf7b9cc511e.png)
 
 # MySQL Queries
 
