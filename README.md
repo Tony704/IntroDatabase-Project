@@ -16,7 +16,12 @@ Team member: <a href="http://www.catawba.edu">Catawba College</a><br>
 Look at email from Dr. Thompson
 
 # Business Rules
-In Project Assignment
+E
+ERD (full database)
+MySQL Queries
+Web/App Implementation (Optional) or Description of Future Work
+MySQL dump
+PPT Video (link): PPT video:  please demonstrate your project using PPT and screen shots (team members, description, business rules, EERD, new tables, queries)  - this can be done with a Zoom video or narrated PPT (voice over completed right in PPT).  The PPT or video needs to be stored and the link shared for viewing.
 
 # EERD (full database)
 ![EERD](https://user-images.githubusercontent.com/78328362/116940271-b4205d80-ac3b-11eb-8371-bbf7b9cc511e.png)
