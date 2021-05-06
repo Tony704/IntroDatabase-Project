@@ -16,8 +16,7 @@ Team member: <a href="http://www.catawba.edu">Catawba College</a><br>
 Look at email from Dr. Thompson
 
 # Business Rules
-E
-ERD (full database)
+EERD (full database)
 MySQL Queries
 Web/App Implementation (Optional) or Description of Future Work
 MySQL dump
