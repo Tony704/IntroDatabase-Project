@@ -24,7 +24,7 @@ Drivers:  students approved to drive, view their driver ratings
 Restaurants:  Get approved to be a part of the system, view ratings
 Administrator(s):  individuals that manage the rating system, view reports
 
-There may be other interactions but this is a start.  Generally your procedures and queries relate to a part of hte "use case" for example viewing driver ratings would be a request by admin or a driver.
+There may be other interactions but this is a start.  Generally your procedures and queries relate to a part of the "use case" for example viewing driver ratings would be a request by administration or a driver.
 
 # Business Rules
 EERD (full database)
