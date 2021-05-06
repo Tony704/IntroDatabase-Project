@@ -13,7 +13,18 @@ Team member: <a href="http://www.catawba.edu">Catawba College</a><br>
 
 
 # Use Case for Rating System
-Look at email from Dr. Thompson
+This is a description of the individuals and systems involved in the rating system addition to the Campus Eats database.
+
+It can include the following and only references the interaction with the ratings system:
+
+Actors: (individuals involved)
+
+Campus members:  order food, view ratings (only campus members can participate)
+Drivers:  students approved to drive, view their driver ratings
+Restaurants:  Get approved to be a part of the system, view ratings
+Administrator(s):  individuals that manage the rating system, view reports
+
+There may be other interactions but this is a start.  Generally your procedures and queries relate to a part of hte "use case" for example viewing driver ratings would be a request by admin or a driver.
 
 # Business Rules
 EERD (full database)
